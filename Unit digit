@@ -1,12 +1,4 @@
-# Multiple-if-pgm
-Get 2 numbers n1,n2 as the input. If any 
-of the unit digit of inputs  is greater 
-print them in ascending order.if the unit
- digits of both inputs are same print 
-them in descending order.
-
 Code:
-
 import java.util.*;
 class Main 
 {
